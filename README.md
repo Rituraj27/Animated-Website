@@ -17,7 +17,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [View the live site](https://github.io/rituraj27/Animated-Website)
+🔗 [View the live site](https://rituraj27.github.io/Animated-Website/)
 
 ---
 
